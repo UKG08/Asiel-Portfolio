@@ -5,7 +5,7 @@ import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
 
 const RecentProjects = () => {
-  const handleButtonClick = (link) => {
+  const handleButtonClick = (link:string) => {
     window.open(link, "_blank");
   };
 
