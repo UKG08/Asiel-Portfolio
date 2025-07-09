@@ -72,16 +72,16 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Food Delievery App Design with Figma",
-    des: "Explore the Food Delievery App design withe the help of Figma.",
+    title: "PDFER - Lets talk to your PDF",
+    des: "Explore your PDF with your question .",
     img: "/p1.svg",
     iconLists: ["jdoh"],
     link: "https://www.figma.com/design/54EroHcqIe64xrb3GmJzRM/FOOD-DELIVERY-APP?node-id=0-1&t=GZsbNltZJbSInrce-1https://www.figma.com/design/54EroHcqIe64xrb3GmJzRM/FOOD-DELIVERY-APP?node-id=0-1&t=GZsbNltZJbSInrce-1",
   },
   {
     id: 2,
-    title: "Educational Website ",
-    des: "Simplify your Education with the help of learning any language with the roadmaps",
+    title: "SHOPWAVE - A E-Commerce with everything you need",
+    des: "A E-Commmerce website with everything you want ",
     img: "/p2.svg",
     iconLists: [""],
     link: "https://www.figma.com/design/Jd5cQm0NBod0LIed2aJgWv/Untitled?node-id=0-1&t=PylrjWK22KBDk9hh-1",
