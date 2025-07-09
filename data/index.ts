@@ -76,7 +76,7 @@ export const projects = [
     des: "Explore your PDF with your question .",
     img: "/p1.svg",
     iconLists: ["jdoh"],
-    link: "https://www.figma.com/design/54EroHcqIe64xrb3GmJzRM/FOOD-DELIVERY-APP?node-id=0-1&t=GZsbNltZJbSInrce-1https://www.figma.com/design/54EroHcqIe64xrb3GmJzRM/FOOD-DELIVERY-APP?node-id=0-1&t=GZsbNltZJbSInrce-1",
+    link: "https://www.figma.com/design/KBC3KE8NaTJrA6cpglQUIx/Untitled?node-id=1-100&t=8Deo4H9UGBpvREmB-1",
   },
   {
     id: 2,
